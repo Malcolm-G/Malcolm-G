@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **malcolm.githuka@gmail.com**
 
-<!-- - ⚡ Fun fact **I think I am funny** -->
+- ⚡ Fun fact **"Plus Ultra" is a Latin phrase that means "further beyond."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
