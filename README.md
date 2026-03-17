@@ -8,9 +8,10 @@
 
 ---
 
-I'm a full-stack developer at home in both Java and JavaScript. On the backend I work with Java and Spring; on the frontend I reach for React. I've got a soft spot for 3D  I've spent time with Blender and built interactive experiences with Three.js, which sits right at the intersection of code and creativity that I find genuinely fun.
-
- **malcolm.githuka@gmail.com**
+<p align="center">
+  I'm a full-stack developer at home in both Java and JavaScript. On the backend I work with Java and Spring; on the frontend I reach for React.<br/><br/>
+  I've got a soft spot for 3D. I've spent time with Blender and built interactive experiences with Three.js, and that side of things keeps me genuinely interested.
+</p>
 
 ---
 
@@ -19,7 +20,9 @@ I'm a full-stack developer at home in both Java and JavaScript. On the backend I
   <a href="https://malcolm-githuka.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="website" height="30" width="40" /></a>
   <a href="https://malcolmgithuka.hashnode.dev/" target="blank"><img align="center" src="https://cdn.simpleicons.org/hashnode" alt="hashnode" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/malcolm-githuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malcolm-githuka" height="30" width="40" /></a>
+  <a href="mailto:malcolm.githuka@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40" /></a>
 </p>
+<p align="left">📫 <a href="mailto:malcolm.githuka@gmail.com">malcolm.githuka@gmail.com</a></p>
 
 ---
 
