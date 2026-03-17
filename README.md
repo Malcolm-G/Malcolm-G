@@ -1,9 +1,7 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" width="100%"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" width="100%" draggable="false" style="pointer-events: none;"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-stack+Java+%26+JavaScript+developer;Tinkering+with+Three.js+%26+Blender;Building+things+that+run+and+look+good" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-stack+Java+%26+JavaScript+developer;Tinkering+with+Three.js+%26+Blender;Building+things+that+run+and+look+good" alt="Typing SVG" draggable="false" style="pointer-events: none;" />
 </p>
 
 ---
@@ -57,4 +55,4 @@
   <img src="https://komarev.com/ghpvc/?username=Malcolm-G&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%" draggable="false" style="pointer-events: none;"/>
