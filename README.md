@@ -1,4 +1,4 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=160&section=header&text=Malcolm%20Githuka&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Java%20%26%20JavaScript%20Developer&descAlignY=62&descSize=18&descColor=c0caf5" width="100%"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -40,13 +40,6 @@ I'm a full-stack developer at home in both Java and JavaScript. On the backend I
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malcolm-G&theme=tokyonight&no-frame=true&row=1" alt="Malcolm's GitHub trophies" />
 </p>
 
 ---
