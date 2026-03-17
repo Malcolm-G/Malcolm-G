@@ -22,7 +22,6 @@
   <a href="https://linkedin.com/in/malcolm-githuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malcolm-githuka" height="30" width="40" /></a>
   <a href="mailto:malcolm.githuka@gmail.com"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40" /></a>
 </p>
-<p align="left">📫 <a href="mailto:malcolm.githuka@gmail.com">malcolm.githuka@gmail.com</a></p>
 
 ---
 
